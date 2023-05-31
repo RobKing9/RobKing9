@@ -38,6 +38,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/RobKing9/RobKing_Goroutine_ChatRoom">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RobKing9&repo=RobKing_Goroutine_ChatRoom&theme=cobalt2" />
 </a>
-
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br />
